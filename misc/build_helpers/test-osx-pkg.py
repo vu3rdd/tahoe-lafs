@@ -8,8 +8,8 @@
 # then it exits with code 0.
 
 # If anything goes wrong then it exits with non-zero (failure).  This is to
-# check that the Mac OS "DMG" (disk image) package that gets built is correctly
-# loading all of its packages from inside the image.
+# check that the Mac OS PKG package that gets built is correctly loading all
+# of its packages from inside the image.
 
 # Here is an example output from --version-and-path:
 
