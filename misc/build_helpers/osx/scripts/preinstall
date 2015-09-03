@@ -8,6 +8,6 @@ if [ -f /etc/paths.d/tahoe ]; then
     rm /etc/paths.d/tahoe
 fi
 
-if [ -f /etc/manpaths.d/tahoe.1 ]; then
-    rm /etc/manpaths.d/tahoe.1
+if [ -f /etc/manpaths.d/tahoe ]; then
+    rm /etc/manpaths.d/tahoe
 fi
