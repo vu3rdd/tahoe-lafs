@@ -1,5 +1,7 @@
 ﻿.. -*- coding: utf-8-with-signature -*-
 
+NEW ADDITION
+
 ==================================
 User-Visible Changes in Tahoe-LAFS
 ==================================
